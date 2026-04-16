@@ -5,7 +5,7 @@
 
 [Download Certificate (PDF)](./TCS.pdf)
 
-<img width="800" src="./Tcs.png" />
+<img width="800" src="./tcs.png" />
 
 
 ---
