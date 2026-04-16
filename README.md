@@ -1,8 +1,7 @@
 # My Professional Certifications
 
----
 
-## TCS iON Career Edge - Young Professional
+## 1. TCS iON Career Edge - Young Professional
 
 <img width="800" src="./Tcs.png" />
 
@@ -10,7 +9,7 @@
 
 ---
 
-## VIT CODE APEX 2.0 - Hackathon Participation
+## 2. VIT CODE APEX 2.0 - Hackathon Participation
 
 <img width="800" src="./VIT.png" />
 
@@ -18,11 +17,16 @@
 
 ---
 
-## Data Analyst Training (120 Hours) - Coding Seekho
+## 3. Data Analyst Training (120 Hours) - Coding Seekho
 
 <img width="800" src="./CompletionCR.png" />
 
 [Download Certificate (PDF)](./CompletionDA.pdf)
 
 ---
+
+## 4. Python - Coding Seekho
+
+<[Donload Certificate (PDF)](./PythonCS.pdf)
+img width="800" src="./PythonCS.png" />
 
