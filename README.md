@@ -5,7 +5,7 @@
 
 [Download Certificate (PDF)](./TCS.pdf)
 
-<img width="800" src="./tcs.png" />
+<img width="800" src="./tcs.png"/>
 
 
 ---
@@ -14,7 +14,7 @@
 
 [Download Certificate (PDF)](./VIT.pdf)
 
-<img width="800" src="./VIT.png" />
+<img width="800" src="./VIT.png"/>
 
 
 ---
@@ -23,7 +23,7 @@
 
 [Download Certificate (PDF)](./CompletionDA.pdf)
 
-<img width="800" src="./CompletionCR.png" />
+<img width="800" src="./CompletionCR.png"/>
 
 
 ---
@@ -32,5 +32,5 @@
 
 [Donload Certificate (PDF)](./PythonCS.pdf)
 
-<img width="800" src="./PythonCS.png" />
+<img width="800" src="./PythonCS.png"/>
 
