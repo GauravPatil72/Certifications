@@ -27,6 +27,7 @@
 
 ## 4. Python - Coding Seekho
 
-<[Donload Certificate (PDF)](./PythonCS.pdf)
-img width="800" src="./PythonCS.png" />
+[Donload Certificate (PDF)](./PythonCS.pdf)
+
+<img width="800" src="./PythonCS.png" />
 
