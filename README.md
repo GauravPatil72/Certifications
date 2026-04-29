@@ -10,7 +10,7 @@
 
 ---
 
-## 2. VIT CODE APEX 2.0 - Hackathon Participation
+## 2. Deloitte - Data Analytics Job Simulation
 
 [Download Certificate (PDF)](./Deloitte.pdf)
 
