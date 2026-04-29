@@ -12,6 +12,15 @@
 
 ## 2. VIT CODE APEX 2.0 - Hackathon Participation
 
+[Download Certificate (PDF)](./Deloitte.pdf)
+
+<img width="800" src="./Screenshot 2026-04-29 151411.png"/>
+
+---
+
+
+## 3. VIT CODE APEX 2.0 - Hackathon Participation
+
 [Download Certificate (PDF)](./VIT.pdf)
 
 <img width="800" src="./VIT.png"/>
@@ -19,7 +28,7 @@
 
 ---
 
-## 3. Data Analyst Training (120 Hours) - Coding Seekho
+## 4. Data Analyst Training (120 Hours) - Coding Seekho
 
 [Download Certificate (PDF)](./CompletionDA.pdf)
 
@@ -27,10 +36,4 @@
 
 
 ---
-
-## 4. Python - Coding Seekho
-
-[Donload Certificate (PDF)](./PythonCS.pdf)
-
-<img width="800" src="./PythonCS.png"/>
 
